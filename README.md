@@ -1,7 +1,7 @@
 # BeTeR_Adviseurs
 
 <img src="public_html/img/mission-1-gh.jpg">
-I made <a href="www.beteradviseurs.nl">this website</a> for two starting entrepreneurs. They wanted to distinguish themselves from the competitors who actually all have the same type of website. It had to be a website with a good balance between business and personal that invites you to get in touch as much as possible.
+I made <a href="https://www.beteradviseurs.nl">this website</a> for two starting entrepreneurs. They wanted to distinguish themselves from the competitors who actually all have the same type of website. It had to be a website with a good balance between business and personal that invites you to get in touch as much as possible.
 
 ## Description
 The basis of the website is bootstrap, html, css, javascript and php. With this I have built a modern and safe website. In particular, I like the contact form, which contains personal data that cannot be harvested by crawlers and robots. The entrepreneur is therefore not harassed with spam emails. Furthermore:
