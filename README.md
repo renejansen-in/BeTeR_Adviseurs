@@ -1,7 +1,7 @@
 # BeTeR_Adviseurs
 
 <img src="public_html/img/mission-1-gh.jpg">
-For <a href="https://www.beteradviseurs.nl">this customer</a> I made a website that had the aim of inspiring people in a cheerful way about what you can do with balloon decoration. Despite the large amount of visual material, the website had to perform well.
+I made <a href="www.beteradviseurs.nl">this website</a> for two starting entrepreneurs. They wanted to distinguish themselves from the competitors who actually all have the same type of website. It had to be a website with a good balance between business and personal that invites you to get in touch as much as possible.
 
 ## Description
 The basis of the website is bootstrap, html, css, javascript and php. With this I have built a modern and safe website. In particular, I like the contact form, which contains personal data that cannot be harvested by crawlers and robots. The entrepreneur is therefore not harassed with spam emails. Furthermore:
@@ -24,11 +24,11 @@ No app has been developed in this project
     
 This project was realized by:
   
-* Working closely together with the entrepreneur
+* Working closely together with the entrepreneurs
 * Prototyping and testing
 * Selecting the right hosting party
 * Temporarily storing the static content, so that copies of the content are available worldwide (cdn)
-* Applying the bootstrap framework (see Technologies used)
+* Applying the bootstrap framework (see chapter Technologies used)
 * reCAPTCHA V3
     
 </p>
@@ -41,9 +41,9 @@ The following technologies were used in this project
 * Applying the bootstrap framework
 * hypertext markup language (html)
 * Cascade style sheets (css)
-* JavaScript
 * Hypertext Preprocessor (php), scrambling and enncrypting
-* jquery, prettyPhoto, nicescroll, superfish, owl/carousel, BlackandWhite
+* JavaScript
+* jquery, popper, lightbox, stellar, owl/carousel, ajaxchimp
 * reCAPTCHA V3
     
 </p>
