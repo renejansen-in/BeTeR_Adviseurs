@@ -6,9 +6,9 @@ I made <a href="www.beteradviseurs.nl">this website</a> for two starting entrepr
 ## Description
 The basis of the website is bootstrap, html, css, javascript and php. With this I have built a modern and safe website. In particular, I like the contact form, which contains personal data that cannot be harvested by crawlers and robots. The entrepreneur is therefore not harassed with spam emails. Furthermore:
 
-* Colorful and atmospheric images in slideshows for the themes of wedding, birthday, anniversary, business promotion and theme parties
-* Emphasizing the skills of the entrepreneur
-* Integrating the website with the much more actively applied socials, Insta, FB, Pinterest and Tiktok
+* Matching colors with corporate identity 
+* Emphasizing the entrepreneur's skills, both forming a team and preserving their own identity
+* Integrating the website with LinkedIn
 * 100% responsive
 
 ## Contents
